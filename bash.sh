@@ -1,1 +1,1 @@
-echo "coba coba coba belajar triger dari github" > index.html
+echo "coba coba coba belajar triger dari github secara otomatis setiap menit" > index.html
